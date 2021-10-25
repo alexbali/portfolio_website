@@ -1,0 +1,94 @@
+@import "../../global.scss";
+
+.card{
+    overflow: hidden;
+    box-shadow: 0 2px 20px grey;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+    transition: transform 200ms ease;
+    width: 30%;
+    height: 90%;
+    margin: 10px 20px;
+
+    @include mobile{
+        width: 95%;
+        // height: 32%;
+        // margin: 5px;
+        flex-direction: row;
+        overflow: hidden;
+    }
+
+    .card-body{
+        @include mobile{
+            display: flex;
+            flex-direction: row;
+        }
+
+        .card-image{
+            height: 30%;
+            width: 80%;
+            object-fit: cover;
+            display: block;
+            margin: auto;
+    
+            @include mobile{
+                height: 100%;
+                width: 30%;
+                margin-left: 0;
+            }
+    
+            img{
+                height: 100%;
+                width: 100%;
+            }
+    
+            @include mobile{
+                width: 30%;
+                height: 100%;
+            }
+        }
+
+        .card-attributes{
+            overflow: hidden;
+            // height: 100%;
+            width: 100%;
+
+            .card-title{
+                padding: 10px;
+                font-size: 25px;
+                text-align: center;
+                @include mobile{
+                    padding: 0;
+                    margin: 0;
+                    font-size: 14px;
+                }
+            }
+        
+            .card-description{
+                // padding: 10px;
+                @include mobile{
+                    overflow: hidden;
+                    font-size: 12px;
+                    padding: 0;
+                    margin-left: 10px;
+                    margin-top: 5px;
+                    text-align: center;
+                }
+            }
+        }
+    }
+
+
+}
+
+.card:hover{
+    transform: scale(1.1);
+    transition: all .2s ease-in;
+
+    button{
+        background: black;
+        color: white;
+    }
+}
