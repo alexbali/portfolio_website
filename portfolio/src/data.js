@@ -11,7 +11,7 @@ export const featuredPortfolio = [
     {
         id:2,
         title: "Citrus Network",
-        img: "/assets/CitrusNetwork.png",
+        img: "/assets/CitrusNetwork.jpg",
         description: "Django Application with SQLite database. Integrated with other social network applications",
         link: "https://stackoverflow.com/questions/48431951/adding-a-link-to-an-entire-flexbox",
         flag: "True"
@@ -19,7 +19,7 @@ export const featuredPortfolio = [
     {
         id:3,
         title: "Boost",
-        img: "/assets/boost.png",
+        img: "/assets/boost.jpg",
         description: "Android application written in Java using a NoSQL firebase backend",
         link: "https://stackoverflow.com/questions/48431951/adding-a-link-to-an-entire-flexbox",
         flag: "True"

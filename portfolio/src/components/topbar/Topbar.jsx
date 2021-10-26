@@ -8,7 +8,7 @@ import {Nav, Navbar, NavDropdown} from 'react-bootstrap'
 // Be sure to include styles at some point, probably during your bootstraping
 import 'react-bootstrap-buttons/dist/react-bootstrap-buttons.css';
 
-import {Person, Mail, AcUnit, GitHub,LinkedIn, FileDownload as FDI } from "@material-ui/icons"
+import {Person, Mail, AcUnit, GitHub,LinkedIn, Download } from "@material-ui/icons";
 import NavbarToggle from "react-bootstrap/esm/NavbarToggle";
 export default function Topbar() {
     return (
