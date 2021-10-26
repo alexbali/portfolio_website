@@ -32,7 +32,7 @@ export default function Topbar() {
                                 <a href="#testimonials">References</a>
                             </li>
                             <li>
-                                <a href="/assets/resume.pdf" target="_blank" attributes-list>Resume</a>
+                                <a href="/assets/alex.pdf" target="_blank" attributes-list>Resume</a>
                             </li>
                         </ul>
                     </nav>
