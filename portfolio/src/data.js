@@ -121,31 +121,31 @@ export const otherApp = [
     {
         id:1,
         title: "other application 1",
-        img: "/assets/working-on-it.jpg"
+        img: "/assets/un.jpg"
     },
     {
         id:2,
         title: "other application 2",
-        img: "/assets/working-on-it.jpg"
+        img: "/assets/un.jpg"
     },
     {
         id:3,
         title: "other application 3",
-        img: "/assets/working-on-it.jpg"
+        img: "/assets/un.jpg"
     },
     {
         id:4,
         title: "other application 4",
-        img: "/assets/working-on-it.jpg"
+        img: "/assets/un.jpg"
     },
     {
         id:5,
         title: "other application 5",
-        img: "/assets/working-on-it.jpg"
+        img: "/assets/un.jpg"
     },
     {
         id:6,
         title: "other application 6",
-        img: "/assets/working-on-it.jpg"
+        img: "/assets/un.jpg"
     },
 ]

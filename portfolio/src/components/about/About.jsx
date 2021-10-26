@@ -7,11 +7,9 @@ export default function About() {
             <div className="top">
                 <h1>About</h1>
                 <div className="about-paragraph">
-                    <p>What can I tell you about myself? I'm a pretty chill guy that loves coming up with creative solutions and helping others. I am also very 
-                        passionate about learning and teaching myself new skills! 
-                        I am a recent graduate
-                        from the University of Alberta where I completed my Bachelors of Science with specialization in Computer Science. I have many skills that I will
-                        list below. 
+                    <p>Driven professional with a passion for optimizing applications and creating elegant solutions. I am young, energetic and a recent graduate from the 
+                        University of Alberta where I finished my Bachelor of Science degree with specialization in Computer Science. I have strong foundations in algorithms,
+analytics, databases, and software development. 
                     </p>
                 </div>
             </div>

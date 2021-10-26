@@ -49,8 +49,8 @@ export default function Topbar() {
                             </a>
                         </div>
                         <div className="icon-3">
-                            <a href="#intro">
-                            <GitHub style={{fontSize: '40px'}}></GitHub>
+                            <a href="https://github.com/alexbali" target="_blank">
+                                <GitHub style={{fontSize: '40px'}}></GitHub>
                             </a>
                         </div>
 

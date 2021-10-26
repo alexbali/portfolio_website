@@ -20,7 +20,7 @@ export default function Testimonials() {
         icon: "assets/linkedin.png",
         desc: "If or when you work with Alex, you are working with someone who is confident in what he does because he's excellent at what he does.",
         featured: true,
-        profileLink: "https://www.linkedin.com/in/alex-bali/"
+        profileLink: "https://www.linkedin.com/in/joel-ramnath-1517aa20a/"
     },
     {
         id: "3",
@@ -41,7 +41,7 @@ export default function Testimonials() {
                         <div className="top">
                             <img src="assets/right-arrow.png" className="left" alt="" />
                             <img src={d.img} className="user" alt="" />
-                            <a href={d.profileLink}>
+                            <a href={d.profileLink} target="_blank">
                                 <img src={d.icon} className="right" alt="" />
                             </a>
                             
