@@ -62,7 +62,7 @@ export default function Portfolio() {
                             {k.description}
                             <br />
                             <br />
-                            <a class="git" href={k.link}>
+                            <a class="git" href={k.link} target="_blank">
                                 {k.flag ? <GitHub></GitHub> : "COE Internal Tool"}
                             </a>
                         </p>

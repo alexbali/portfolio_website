@@ -5,7 +5,7 @@ export const featuredPortfolio = [
         img: "/assets/ahsl.png",
         description: "Django Application with React framework and SQLite backend. Agile methodologies followed.",
         displayLink: "GitHub",
-        link: "https://stackoverflow.com/questions/48431951/adding-a-link-to-an-entire-flexbox",
+        link: "https://github.com/alexbali",
         flag: "True"
     },
     {
@@ -13,7 +13,7 @@ export const featuredPortfolio = [
         title: "Citrus Network",
         img: "/assets/CitrusNetwork.jpg",
         description: "Django Application with SQLite database. Integrated with other social network applications",
-        link: "https://stackoverflow.com/questions/48431951/adding-a-link-to-an-entire-flexbox",
+        link: "https://github.com/alexbali",
         flag: "True"
     },
     {
@@ -21,7 +21,7 @@ export const featuredPortfolio = [
         title: "Boost",
         img: "/assets/boost.jpg",
         description: "Android application written in Java using a NoSQL firebase backend",
-        link: "https://stackoverflow.com/questions/48431951/adding-a-link-to-an-entire-flexbox",
+        link: "https://github.com/alexbali",
         flag: "True"
     },
     {
@@ -41,7 +41,7 @@ export const featuredPortfolio = [
         title: "Selenium Bot",
         img: "/assets/R.jpg",
         description: "Created with Python and the Selenium Framework automates the process of tracking a price on Amazon",
-        link: "https://stackoverflow.com/questions/48431951/adding-a-link-to-an-entire-flexbox",
+        link: "https://github.com/alexbali",
         flag: "True"
     },
     // {
